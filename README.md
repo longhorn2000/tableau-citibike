@@ -26,9 +26,9 @@ My analysis focused on user types (customer or subscriber) and gender (male, fem
 
 
 ## Recommendations
-* item 1 Continue marketing campaigns to encourage short-term rentals.
-* item 2 Continue marketing campaigns to encourage female ridership.
-* item 3 Check all bikes with trip durations under 90 seconds and the same starting and ending stations for any needed repairs.
+*  Continue marketing campaigns to encourage short-term rentals.
+*  Continue marketing campaigns to encourage female ridership.
+*  Check all bikes with trip durations under 90 seconds and the same starting and ending stations for any needed repairs.
 
 
 There is steady ridership growth across user types and gender, suggesting a healthy demand for CitiBikes. Current year-to-date growth rates also suggest a growing market for short-term rentals and female users. Therefore, recommendations would be to focus marketing campaigns towards those users.
