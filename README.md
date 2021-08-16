@@ -19,3 +19,6 @@ In a separate notebook, I reshaped the cleaned data. Originally, each row repres
 
 Analysis
 My analysis focused on user types (customer or subscriber) and gender (male, female, unknown). Though annual subscribers make up over 90% of total riders, customers (1-day and 3-day rentals) have a higher growth rate (1718%) than subscribers (113%). This could signal a growing interest in short-term rentals for users who want to experience the CitiBike product without being tied down for a whole year, or perhaps even a growing tourist market.
+
+![image](https://user-images.githubusercontent.com/80234800/129581106-c998d002-d5b8-449b-a943-0a8fc722fdcb.png)
+
